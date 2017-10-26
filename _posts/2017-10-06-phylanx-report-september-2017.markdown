@@ -47,7 +47,7 @@ The first month of work was dedicated to the design and development of the first
  YAML                   |         2    |        19    |        18    |        56
  Markdown               |         1    |        10    |         0    |        23
  Dockerfile             |         1    |         2    |         5    |        19
- **SUM:**               |     **140**  |    **2678**  |    **1938**  |   **11336**
+ **SUM**                |     **140**  |    **2678**  |    **1938**  |   **11336**
 
 ## Impact on other projects
 

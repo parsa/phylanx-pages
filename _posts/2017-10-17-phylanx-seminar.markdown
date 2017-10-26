@@ -10,9 +10,11 @@ Friday the Phylanx team at LSU held a seminar on the current theory, techniques,
 
 You can watch the seminar, as well as, follow along with the overheads and examples provided below.
 
-### [Seminar Video](https://youtu.be/o11VyxgbQII)
+### Seminar Video
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o11VyxgbQII?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Link: [https://youtu.be/o11VyxgbQII](https://youtu.be/o11VyxgbQII)
 
 ### Resources
 
