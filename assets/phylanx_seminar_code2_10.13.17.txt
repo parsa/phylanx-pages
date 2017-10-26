@@ -1,0 +1,14 @@
+import phylanx
+
+# A + B
+
+variables = {
+    'A' : phylanx.execution_tree.var(1.0),
+    'B' : phylanx.execution_tree.var(41.0)
+}
+
+p = phylanx.execution_tree.generate_tree('A + B', variables)
+print(p.eval())
+
+variables['B'].assign(66.0)
+print(p.eval())
