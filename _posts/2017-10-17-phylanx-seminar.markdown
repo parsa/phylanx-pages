@@ -10,11 +10,11 @@ Friday the Phylanx team at LSU held a seminar on the current theory, techniques,
 
 You can watch the seminar, as well as, follow along with the overheads and examples provided below.
 
-[Seminar Video](https://youtu.be/o11VyxgbQII):
+### [Seminar Video](https://youtu.be/o11VyxgbQII):
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o11VyxgbQII?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Resources:
+### Resources:
 
 * [Thursday August 24th – Meeting Notes Aug. 24](/assets/phylanx_kickoff_meeting_08.24.17.pdf)
 * [Friday August 25th – Meeting Notes Aug. 25](/assets/phylanx_kickoff_meeting_08.25.17.pdf)

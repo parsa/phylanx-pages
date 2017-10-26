@@ -12,7 +12,7 @@ On August 24th and 25th the Phylanx team held our kickoff meeting at Louisiana S
 
 Since the meeting all of our team has rapidly started contributing to the project. We now have a working repository complete with a build system, tests, and continuous integration. While there is much still to do, we are happy that the project is launching on the right foot!
 
-Meeting Notes:
+### Meeting Notes:
 
 * [Thursday August 24th – Meeting Notes Aug. 24](/assets/phylanx_kickoff_meeting_08.24.17.pdf)
 * [Friday August 25th – Meeting Notes Aug. 25](/assets/phylanx_kickoff_meeting_08.25.17.pdf)
