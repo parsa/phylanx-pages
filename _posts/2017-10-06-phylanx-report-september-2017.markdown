@@ -14,13 +14,13 @@ The first month of work was dedicated to the design and development of the first
 * Kick-off meeting (August 24th-25th, 2017), agenda and presentations:
     * [http://stellar.cct.lsu.edu/events/phylanx-kickoff-meeting/](http://stellar.cct.lsu.edu/events/phylanx-kickoff-meeting/)
 * Weekly group-meeting, minutes:
-    * [September 7th](https://drive.google.com/open?id=0B-L3qi_kGiCLWHlENUZJRWJLbFk)
-    * [September 14th](https://drive.google.com/open?id=0B-L3qi_kGiCLSFFlemVqN3g0Q0E)
-    * [September 21st](https://drive.google.com/open?id=0B-L3qi_kGiCLamJMNzVJN3hjTFE)
-    * [September 28th](https://drive.google.com/open?id=0B-L3qi_kGiCLY1Bic01oem5DM0E)
+    * [September 7th](https://docs.google.com/viewer?url={{ "/assets/phylanx_project_meeting_09.07.17.docx" | absolute_url }})
+    * [September 14th](https://docs.google.com/viewer?url={{ "/assets/phylanx_project_meeting_09.14.17.docx" | absolute_url }})
+    * [September 21st](https://docs.google.com/viewer?url={{ "/assets/phylanx_project_meeting_09.21.17.docx" | absolute_url }})
+    * [September 28th](https://docs.google.com/viewer?url={{ "/assets/phylanx_project_meeting_09.28.17.docx" | absolute_url }})
 * Created Mailing list: phylanx@stellar-group.org
-    * Archive: http://mail.cct.lsu.edu/pipermail/phylanx/
-* Created Website: http://phylanx.stellar-group.org/
+    * Archive: [http://mail.cct.lsu.edu/pipermail/phylanx/](http://mail.cct.lsu.edu/pipermail/phylanx/)
+* Created Website: [http://phylanx.stellar-group.org/](http://phylanx.stellar-group.org/)
 
 ## Development activities and results
 
