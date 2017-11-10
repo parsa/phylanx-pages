@@ -18,6 +18,6 @@ Link: [https://youtu.be/o11VyxgbQII](https://youtu.be/o11VyxgbQII)
 
 ### Resources
 
-* [Overhead Notes](/assets/phylanx_seminar_overhead_notes_10.13.17.pdf)
-* [Code Snippet 1](/assets/phylanx_seminar_code1_10.13.17.txt)
-* [Code Snippet 2](/assets/phylanx_seminar_code2_10.13.17.txt)
+* [Overhead Notes](/assets/seminars/10.13.17_project_overview/phylanx_seminar_overhead_notes_10.13.17.pdf)
+* [Code Snippet 1](/assets/seminars/10.13.17_project_overview/phylanx_seminar_code1_10.13.17.txt)
+* [Code Snippet 2](/assets/seminars/10.13.17_project_overview/phylanx_seminar_code2_10.13.17.txt)

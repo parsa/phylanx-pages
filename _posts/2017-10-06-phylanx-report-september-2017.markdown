@@ -14,10 +14,10 @@ The first month of work was dedicated to the design and development of the first
 * Kick-off meeting (August 24th-25th, 2017), agenda and presentations:
     * [http://stellar.cct.lsu.edu/events/phylanx-kickoff-meeting/](http://stellar.cct.lsu.edu/events/phylanx-kickoff-meeting/)
 * Weekly group-meeting, minutes:
-    * [September 7th](https://docs.google.com/viewer?url={{ "/assets/phylanx_project_meeting_09.07.17.docx" | absolute_url }})
-    * [September 14th](https://docs.google.com/viewer?url={{ "/assets/phylanx_project_meeting_09.14.17.docx" | absolute_url }})
-    * [September 21st](https://docs.google.com/viewer?url={{ "/assets/phylanx_project_meeting_09.21.17.docx" | absolute_url }})
-    * [September 28th](https://docs.google.com/viewer?url={{ "/assets/phylanx_project_meeting_09.28.17.docx" | absolute_url }})
+    * [September 7th](https://docs.google.com/viewer?url={{ "/assets/reports/meeting_09.07.17.docx" | absolute_url }})
+    * [September 14th](https://docs.google.com/viewer?url={{ "/assets/reports/meeting_09.14.17.docx" | absolute_url }})
+    * [September 21st](https://docs.google.com/viewer?url={{ "/assets/reports/meeting_09.21.17.docx" | absolute_url }})
+    * [September 28th](https://docs.google.com/viewer?url={{ "/assets/reports/meeting_09.28.17.docx" | absolute_url }})
 * Created Mailing list: phylanx@stellar-group.org
     * Archive: [http://mail.cct.lsu.edu/pipermail/phylanx/](http://mail.cct.lsu.edu/pipermail/phylanx/)
 * Created Website: [http://phylanx.stellar-group.org/](http://phylanx.stellar-group.org/)
@@ -35,7 +35,8 @@ The first month of work was dedicated to the design and development of the first
 * Issues Closed: 3
 * Pull Requests Created: 21
 * Pull Requests Closed: 21
-* Code statistics:
+
+#### Code statistics
 
  Language               | No. of Files | Blank Lines  | Comment Lines |  Code Lines
  ---------------------- | ------------ | ------------ | ------------  | -----------
@@ -49,7 +50,7 @@ The first month of work was dedicated to the design and development of the first
  Dockerfile             |         1    |         2    |         5     |        19
  **SUM**                |     **140**  |    **2678**  |    **1938**   |   **11336**
 
-## Impact on other projects
+### Impact on other projects
 
 * HPX: several bug-reports and feature requests have been submitted and addressed which were related to problems and requirements of this project (for instance: [https://github.com/STEllAR-GROUP/hpx/pull/2864](https://github.com/STEllAR-GROUP/hpx/pull/2864))
 * Pybind11: created two bug-report tickets ([https://github.com/pybind/pybind11/issues/1061](https://github.com/pybind/pybind11/issues/1061), [https://github.com/pybind/pybind11/issues/1069](https://github.com/pybind/pybind11/issues/1069)), both have been addressed by the Pybind11 team

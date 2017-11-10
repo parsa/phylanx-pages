@@ -3,7 +3,7 @@ layout: page
 title: People
 permalink: /people/
 ---
-![Hartmut Kaiser](/assets/hkaiser.jpg)
+![Hartmut Kaiser](/assets/people/hkaiser.jpg)
 
 [Hartmut Kaiser](https://www.cct.lsu.edu/~hkaiser/)
 
@@ -15,7 +15,7 @@ Principal Investigator
 
 ---
 
-![Kevin Huck](/assets/khuck.jpg)
+![Kevin Huck](/assets/people/khuck.jpg)
 
 [Kevin Huck](http://www.cs.uoregon.edu/~khuck)
 
@@ -27,7 +27,7 @@ Principal Investigator
 
 ---
 
-![Steven Brandt](/assets/sbrandt.jpg)
+![Steven Brandt](/assets/people/sbrandt.jpg)
 
 [Steven Brandt](https://www.cct.lsu.edu/~sbrandt/)
 
@@ -37,7 +37,7 @@ Senior Investigator
 
 ---
 
-![Stefan van Zwam](/assets/svanzwam.jpg)
+![Stefan van Zwam](/assets/people/svanzwam.jpg)
 
 [Stefan van Zwam](https://www.math.lsu.edu/~svanzwam/)
 
@@ -55,7 +55,7 @@ Rod Tohid
 
 ---
 
-![Adrian Serio](/assets/aserio.jpg)
+![Adrian Serio](/assets/people/aserio.jpg)
 
 Adrian Serio
 
@@ -65,7 +65,7 @@ Project Manager
 
 ---
 
-![Parsa Amini](/assets/pamini.jpg)
+![Parsa Amini](/assets/people/pamini.jpg)
 
 Parsa Amini
 
@@ -75,7 +75,7 @@ Graduate Student
 
 ---
 
-![Alireza Kheirkhahan](/assets/akheir.jpg)
+![Alireza Kheirkhahan](/assets/people/akheir.jpg)
 
 Alireza Kheirkhahan
 
@@ -93,7 +93,7 @@ Graduate Student
 
 ---
 
-![Bibek Wagle](/assets/bwagle.jpg)
+![Bibek Wagle](/assets/people/bwagle.jpg)
 
 Bibek Wagle
 
