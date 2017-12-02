@@ -14,24 +14,24 @@ The second month of work focused on
 
 ### Organizational activities and results
 
-Added Phylanx to OpenHub: [https://www.openhub.net/p/phylanx](https://www.openhub.net/p/phylanx)
+* Added Phylanx to OpenHub: [https://www.openhub.net/p/phylanx](https://www.openhub.net/p/phylanx)
 * Weekly group-meeting, minutes:
     * [October 5th](https://docs.google.com/viewer?url={{ "/assets/reports/meeting_10.05.17.docx" | absolute_url }})
     * [October 12th](https://docs.google.com/viewer?url={{ "/assets/reports/meeting_10.12.17.docx" | absolute_url }})
     * [October 19th](https://docs.google.com/viewer?url={{ "/assets/reports/meeting_10.19.17.docx" | absolute_url }})
     * [October 26th](https://docs.google.com/viewer?url={{ "/assets/reports/meeting_10.26.17.docx" | absolute_url }})
-* Phylanx Seminar: [http://phylanx.stellar-group.org/index.php/2017/10/17/phylanx-seminar/](http://phylanx.stellar-group.org/index.php/2017/10/17/phylanx-seminar/)
+* Phylanx Seminar: <http://phylanx.stellar-group.org/index.php/2017/10/17/phylanx-seminar/>
     * Explained the current theory, techniques, and methodology used by the Phylanx project
 * Given talk at CppCon 2017: The Asynchronous C++ Parallel Programming Model (belated report for Sep)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/js-e8xAMd1s?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Link: [https://youtu.be/js-e8xAMd1s](https://youtu.be/js-e8xAMd1s)
+Link: <https://youtu.be/js-e8xAMd1s>
 
 ### Development activities and results
 
 * Algorithms Highlighted: Logistic Regression, ALS
-* Primitives Created: overall, we have now implemented 35 computational primitives (see here: [https://github.com/STEllAR-GROUP/phylanx/tree/master/phylanx/execution_tree/primitives](https://github.com/STEllAR-GROUP/phylanx/tree/master/phylanx/execution_tree/primitives))
+* Primitives Created: overall, we have now implemented 35 computational primitives (see here: <https://github.com/STEllAR-GROUP/phylanx/tree/master/phylanx/execution_tree/primitives>)
 * Issues Created: 14
 * Issues Closed: 9
 * Pull Requests Created: 40
@@ -54,4 +54,4 @@ Dockerfile    |       1      |      2       |           5     |       28
 
 ### Impact on other projects
 
-* Opened ticket for vcpkg: [https://github.com/Microsoft/vcpkg/issues/1996](https://github.com/Microsoft/vcpkg/issues/1996)
+* Opened ticket for vcpkg: <https://github.com/Microsoft/vcpkg/issues/1996>
