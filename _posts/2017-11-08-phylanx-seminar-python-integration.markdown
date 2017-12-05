@@ -12,16 +12,17 @@ You can watch the seminar, as well as, follow along with the overheads and Jupyt
 
 ### Seminar Video
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E6GPGh3Dng0?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E6GPGh3Dng0?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 
 Link: [https://youtu.be/E6GPGh3Dng0](https://youtu.be/E6GPGh3Dng0)
 
 ### Jupyter Notebook (.ipynb)
 
-<iframe width="740" height="315" src="/assets/seminars/11.03.17_python_integration/phylanx_python_frontend_example.html" frameborder="0" allowfullscreen></iframe>
+<iframe src="/assets/seminars/11.03.17_python_integration/phylanx_python_frontend_example.html" frameborder="0" style="height: 315px; width: 100%;" allowfullscreen="true"></iframe>
 
 Link: [(.ipynb)](/assets/seminars/11.03.17_python_integration/phylanx_python_frontend_example.ipynb) [(.pdf)](/assets/seminars/11.03.17_python_integration/phylanx_python_frontend_example.pdf)
 
-### Resources
+### Overhead Notes
+<iframe src="https://docs.google.com/viewer?url={{ '/assets/seminars/11.03.17_python_integration/phylanx_seminar_slides_11.03.17.pdf' | absolute_url }}&embedded=true" style="height: 640px; width: 100%;" frameborder="0" ></iframe>
 
-* [Overhead Notes](/assets/seminars/11.03.17_python_integration/phylanx_seminar_slides_11.03.17.pdf)
+Link: [(.pdf)](/assets/seminars/11.03.17_python_integration/phylanx_seminar_slides_11.03.17.pdf)
