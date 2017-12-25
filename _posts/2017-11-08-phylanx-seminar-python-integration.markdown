@@ -14,7 +14,7 @@ You can watch the seminar, as well as, follow along with the overheads and Jupyt
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E6GPGh3Dng0?rel=0" frameborder="0" allowfullscreen="true"></iframe>
 
-Link: [https://youtu.be/E6GPGh3Dng0](https://youtu.be/E6GPGh3Dng0)
+Link: <https://youtu.be/E6GPGh3Dng0>
 
 ### Jupyter Notebook (.ipynb)
 
@@ -23,6 +23,6 @@ Link: [https://youtu.be/E6GPGh3Dng0](https://youtu.be/E6GPGh3Dng0)
 Link: [(.ipynb)](/assets/seminars/11.03.17_python_integration/phylanx_python_frontend_example.ipynb) [(.pdf)](/assets/seminars/11.03.17_python_integration/phylanx_python_frontend_example.pdf)
 
 ### Overhead Notes
-<iframe src="https://docs.google.com/viewer?url={{ '/assets/seminars/11.03.17_python_integration/phylanx_seminar_slides_11.03.17.pdf' | absolute_url }}&embedded=true" style="height: 640px; width: 100%;" frameborder="0" ></iframe>
+<object style="height: 640px; width: 100%" data="/assets/seminars/11.03.17_python_integration/phylanx_seminar_slides_11.03.17.pdf" type="application/pdf"></object>
 
 Link: [(.pdf)](/assets/seminars/11.03.17_python_integration/phylanx_seminar_slides_11.03.17.pdf)

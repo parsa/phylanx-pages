@@ -14,10 +14,10 @@ You can watch the seminar, as well as, follow along with the overheads and examp
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o11VyxgbQII?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Link: [https://youtu.be/o11VyxgbQII](https://youtu.be/o11VyxgbQII)
+Link: <https://youtu.be/o11VyxgbQII>
 
 ### Overhead Notes
-<iframe src="https://docs.google.com/viewer?url={{ '/assets/seminars/10.13.17_project_overview/phylanx_seminar_overhead_notes_10.13.17.pdf' | absolute_url }}&embedded=true" style="height: 640px; width: 100%;" frameborder="0" ></iframe>
+<object style="height: 640px; width: 100%" data="/assets/seminars/10.13.17_project_overview/phylanx_seminar_overhead_notes_10.13.17.pdf" type="application/pdf"></object>
 
 Link: [(.pdf)](/assets/seminars/10.13.17_project_overview/phylanx_seminar_overhead_notes_10.13.17.pdf)
 
