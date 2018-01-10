@@ -22,7 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Any opinions, findings, and conclusions or recommendations expressed in this material are those of the
   author(s) and do not necessarily reflect the views of the National Science Foundation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://phylanx.prs.am" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://phylanx.prs.am" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 irc_channel: ste||ar
 irc_server: freenode.net
@@ -34,6 +34,8 @@ plugins:
   - jekyll-feed
 sass:
   sass_dir: ./_sass
+
+permalink: /:categories/:year/:month/:day/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

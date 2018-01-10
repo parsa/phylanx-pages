@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
 Phylanx is a platform that takes a step toward providing a general purpose system for computations on distributed arrays for applied statistics on commodity cloud systems. Phylanx builds upon Spartan, Theano, and Tensorflow in an effort to generalize array operations specifically to support distributed computing. The system will decompose array computations into a predefined set of parallel operations and employ algorithms which optimize execution and data layout from of a user provided expression graph. Using hints from the user and the optimization step the expression graph will be passed to the HPX runtime which schedules work and infers the data layout on each compute locale arguments.
