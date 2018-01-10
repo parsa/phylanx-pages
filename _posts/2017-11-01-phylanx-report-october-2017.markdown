@@ -20,7 +20,7 @@ The second month of work focused on
     * [October 12th](https://docs.google.com/viewer?url={{ "/assets/reports/meeting_10.12.17.docx" | absolute_url }})
     * [October 19th](https://docs.google.com/viewer?url={{ "/assets/reports/meeting_10.19.17.docx" | absolute_url }})
     * [October 26th](https://docs.google.com/viewer?url={{ "/assets/reports/meeting_10.26.17.docx" | absolute_url }})
-* Phylanx Seminar: <http://phylanx.stellar-group.org/index.php/2017/10/17/phylanx-seminar/>
+* [Phylanx Seminar]({% post_url 2017-10-17-phylanx-seminar %})
     * Explained the current theory, techniques, and methodology used by the Phylanx project
 * Given talk at CppCon 2017: The Asynchronous C++ Parallel Programming Model (belated report for Sep)
 
