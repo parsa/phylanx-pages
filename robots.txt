@@ -1,1 +1,2 @@
 User-agent: *
+Sitemap: https://phylanx.prs.am/sitemap.xml

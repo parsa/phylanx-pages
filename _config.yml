@@ -32,6 +32,7 @@ github_username:  STEllAR-GROUP/phylanx
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 sass:
   sass_dir: ./_sass
 
